@@ -95,4 +95,4 @@ Feel free to contribute! Here's how:
 MIT License - do whatever you want with it! 😊
 
 ---
-Made with ☕️ and 💻 by [Amit Tiwari]
+Made with ☕️ and 💻 by Amit Tiwari
